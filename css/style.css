@@ -3,9 +3,26 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url(https://wallpaperaccess.com/full/3352786.jpg); 
+    background-size: 100%;
+
 }
 
-#gamesnake {
-    width: 512px;
-    Height: 512px;
+h1 {
+    font-size: 55px;
+    font-style: italic;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
 }
+
+p {
+    font-size: 20px;
+    font-style: italic;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+
